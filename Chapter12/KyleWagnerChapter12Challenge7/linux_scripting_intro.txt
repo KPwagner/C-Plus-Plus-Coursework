@@ -1,0 +1,5 @@
+if you’ve never worked with Linux before, you may be confused about why so many different
+versions are available. I’m sure you have been confused by various terms such as distribution,
+LiveCD, and GNU when looking at Linux packages. Wading through the world of Linux for the first
+time can be a tricky experience. this chapter takes some of the mystery out of the Linux system
+before you start working on commands and scripts.

@@ -1,0 +1,7 @@
+an operating system , or OS, provides all of the most fundamental features of
+a computer, at least from a software point of view. An OS enables you to use
+the computer’s hardware devices, defines the user interface standards, and
+provides the basic tools that begin to make the computer useful. Ultimately,
+many of these features trace their way back to the OS’s kernel, which is
+described in more detail next. other OS features are owed to additional
+programs that run atop the kernel, as described later in this chapter.
